@@ -172,12 +172,12 @@ export default function App() {
             </div>
 
             <a 
-              href="https://lstep.app/form/28365/ZMiflJ/69514a" 
+              href="https://liff.line.me/1656783300-KLG90La1/landing?follow=%40248vmjzs&lp=Kkhob1&liff_id=1656783300-KLG90La1" 
               className="block text-center bg-gradient-to-br from-[#e05a2b] to-[#c0381a] text-white text-lg font-bold py-4 px-6 rounded-xl shadow-[0_4px_20px_rgba(200,60,30,0.32)] hover:-translate-y-0.5 hover:shadow-[0_8px_28px_rgba(200,60,30,0.4)] transition-all duration-200 tracking-wide"
               target="_blank"
               rel="noopener noreferrer"
             >
-              LINEで無料お試しを申し込む
+              ▼無料お試し・お問い合わせはこちら
             </a>
           </div>
         </section>
