@@ -6,7 +6,7 @@ import {defineConfig, loadEnv} from 'vite';
 export default defineConfig(({mode}) => {
   const env = loadEnv(mode, '.', '');
   return {
-    base: './', // GitHub Pagesのサブディレクトリ対応（相対パス）
+    base: '/RakuTokuWaterblog1.new-/', // GitHub Pagesの公式推奨（リポジトリ名）
     plugins: [react(), tailwindcss()],
     define: {
       'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY),
